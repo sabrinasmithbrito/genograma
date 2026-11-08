@@ -1,0 +1,11 @@
+GENOGRAMA — aplicativo web instalável (PWA)
+
+1. Descompacte todos os arquivos.
+2. Para publicar gratuitamente: crie um repositório no GitHub e envie os arquivos do diretório para a raiz.
+3. Em Settings > Pages, escolha Deploy from a branch, main, / (root) e Save.
+4. Aguarde o endereço HTTPS do GitHub Pages.
+5. Abra o endereço no celular e use Adicionar à tela inicial / Instalar aplicativo.
+
+IMPORTANTE: abrir index.html diretamente no computador permite testar o editor, mas a instalação/offline requer publicação HTTPS.
+Os dados são guardados no navegador de cada pessoa; limpar os dados do navegador pode apagá-los.
+Para gerar PDF, use o botão Salvar em PDF e escolha Salvar como PDF na impressão.
